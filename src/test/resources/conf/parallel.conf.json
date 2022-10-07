@@ -1,7 +1,7 @@
 {
   "server": "hub-cloud.browserstack.com",
-  "user": "BROWSERSTACK_USERNAME",
-  "key": "BROWSERSTACK_ACCESS_KEY",
+  "user": "ganeshmandala_jEhfkt",
+  "key": "ivzkoknKCoskot7Xxy9K",
 
   "capabilities": {
     "bstack:options": {
